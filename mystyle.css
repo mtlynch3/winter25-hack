@@ -1,8 +1,17 @@
 body {
   background-color: lightblue;
+  margin-left: 20px;
+
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: magenta;
+}
+
+p {
+  border:2px solid Tomato;
+  border-radius: 5px;
+  width: 200px;
+  padding: 8px;
+  text-align: center;
 }
